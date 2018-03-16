@@ -12,8 +12,8 @@
 	},
 	"tokenColors": [
 		{
+			"name": "Default",
 			"settings": {
-				"name": "Default",
 				"foreground": "#ffffff"
 			}
 		},
@@ -34,7 +34,7 @@
 			"settings": {
 				"fontStyle": "italic"
 			}
-		},
+		}
 
 		/*{
 			"name": "Comment",
