@@ -2,10 +2,10 @@
 	"name": "Basic Dark",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#181818",
+		"editor.background": "#000",
 		"editor.foreground": "#fff",
 		"editor.inactiveSelectionBackground": "#04f8",
-		"editor.lineHighlightBackground": "#000",
+		"editor.lineHighlightBackground": "#202",
 		"editor.selectionBackground": "#04fc",
 		"editor.wordHighlightBackground": "#f003",
 		"editor.wordHighlightStrongBackground": "#f006"
