@@ -2,7 +2,7 @@
     "name": "basic-dark-color-theme",
     "displayName": "Basic Dark",
     "description": "Dark theme with very, very simple colors",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "spazmodius",
     "engines": {
         "vscode": "^1.20.0"
